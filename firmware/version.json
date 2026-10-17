@@ -1,0 +1,11 @@
+{
+  "projectx": {
+    "version": "0.1.0",
+    "channel": "stable",
+    "url": "https://github.com/krhub-uk/make/releases/download/projectx-v0.1.0/projectx.bin",
+    "sha256": "",
+    "tested_on": "kyle-london",
+    "released": "2026-10-17",
+    "notes": "Skeleton release. Face, tail and drive come next."
+  }
+}
