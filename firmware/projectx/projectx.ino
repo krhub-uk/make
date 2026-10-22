@@ -19,7 +19,7 @@
 #include <esp_ota_ops.h>
 
 #define FW_VERSION   "0.1.0"
-#define ROBOT_ID     "kyle-london"   // change per car: ryan, ethan
+#define ROBOT_ID     "kyle-london"   // change per buddy: ethan
 #define MANIFEST_URL "https://make.krhub.uk/firmware/version.json"
 
 const char* WIFI_SSID = "YOUR_WIFI";
