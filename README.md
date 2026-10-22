@@ -5,7 +5,7 @@ Free ESP32 builds, code and guides. Code is MIT, guides are CC BY 4.0.
 ## Layout
 - `index.html` — the website (GitHub Pages)
 - `firmware/version.json` — the update manifest every robot checks at boot
-- `firmware/projectx/` — Project X robot car firmware
+- `firmware/projectx/` — Project X desk buddy firmware
 - `CREDITS.md` — original makers who inspired each build
 
 ## Release flow

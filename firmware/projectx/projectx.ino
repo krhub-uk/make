@@ -1,4 +1,4 @@
-// Project X robot car — firmware skeleton
+// Project X desk buddy — firmware skeleton
 // make.krhub.uk  |  MIT licence
 //
 // What this does today:
@@ -101,6 +101,6 @@ void setup() {
 }
 
 void loop() {
-  // Face, tail and drive code arrives in later releases.
+  // Face, headlights and drive code arrives in later releases.
   delay(1000);
 }
